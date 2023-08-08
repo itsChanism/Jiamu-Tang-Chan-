@@ -46,7 +46,7 @@ Feel free to reach out to me if you have any opportunities or want to collaborat
   - **Philosophy:** Ethics in AI, Logic and Reasoning, Philosophy of Science
   - **Interdisciplinary:** Accounting, Economic 
 - **GPA:** 4/4
-- **Transcript:** [View 1st Year Transcript](1st%20year.pdf)
+- **Transcript:** [View 1st Year Transcript](https://github.com/itsChanism/Jiamu-Tang-Chan-/blob/main/1st%20year.pdf)
  
 ---
 
