@@ -55,17 +55,17 @@ Feel free to reach out to me if you have any opportunities or want to collaborat
 ### [Summer Institute in Computational Social Science] 🌟
 - **About:** [Attended lectures and workshops on various topics such as Natural Language Processing (NLP), Machine Learning (ML), and causal relations, enhancing my knowledge in these areas. Led and successfully completed a computational social science research project focused on the correlation between suicide, social media hashtags, and language patterns.]
 - **Tech Stack:** [NLP,ML,python]
-- **[GitHub Link]()**
+- **[GitHub Link to view the project](SICSS2023-social.media.mental.health)**
 
 ### [Tripod/Sales Forecasting Project/LSTM] 🌟
 - **About:** [developing a predictive model to forecast future sales data for multiple products. Leveraging historical sales information, I aimed to predict future trends using advanced machine learning techniques to aid in inventory management and financial planning.Developed and implemented a time series forecasting model using Long Short-Term Memory (LSTM) neural networks, specifically tailored to capture temporal dependencies in sales data.]
 - **Tech Stack:** [python,ML]
-- **[GitHub Link](GitHub-URL)**
+- **[GitHub Link to view the project](https://github.com/itsChanism/Sales.Forecasting.Project.Using.LSTM.Neural.Networks)**
   
 ### [Local Business Analysis Project for Local Living Merchants from Alibaba] 🌟
 - **About:** [conducting a comprehensive business analysis for local merchants experiencing irregularities in their operations. I utilized various data sets, including business categories, operational hours, menu offerings, customer behavior, and promotional activities, to identify and rectify operational issues. Developed and implemented a multifaceted data metrics system tailored to align with overarching business objectives, providing a holistic view of merchant operations.]
 - **Tech Stack:** [excel,SQL,python]
-- **[GitHub Link](GitHub-URL)**
+- **[GitHub Link to view the project](https://github.com/itsChanism/Local.Business.Analysis.Project.for.Local.Living.Merchants.from.Alibaba.)**
 
 ---
 
@@ -73,7 +73,7 @@ Feel free to reach out to me if you have any opportunities or want to collaborat
 
 - **LinkedIn:** [https://www.linkedin.com/in/chan2003/](https://www.linkedin.com/in/chan2003/)
 - **Email:** [jtang41@u.rochester.edu](mailto:jtang41@u.rochester.edu)
-- **Portfolio:** [Personal Website]
+- **Portfolio:** [Personal Website/ on going]
 
 ---
 
